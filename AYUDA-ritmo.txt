@@ -1,0 +1,85 @@
+ENTRENADOR DE RITMO — AYUDA Y REGISTRO DE CAMBIOS
+==================================================
+
+LA IDEA
+-------
+La rueda es un compás: una vuelta = un compás de 4/4 y cada sector = una
+semicorchea (1 e & a 2 e & a...). La aguja gira como la de un reloj y los
+sectores encendidos son las notas que suenan.
+
+Cuando tocas, cada golpe queda marcado en el anillo interior justo donde
+cayó. Punto antes del centro del sector = te adelantaste. Punto después =
+llegaste tarde. La app lo mide en milisegundos.
+
+CÓMO SE JUEGA
+-------------
+1. Calibra tu dispositivo una vez (tarjeta «Calibrar tu dispositivo»):
+   sigue el clic con el dedo hasta que pare. Repite si cambias de
+   auriculares, sobre todo si son Bluetooth.
+2. Elige ajustes y pulsa «Empezar ronda».
+3. En los ejercicios de tocar, usa el botón grande TOCA (o la barra
+   espaciadora en ordenador).
+
+TIPOS DE EJERCICIO
+------------------
+- Pulso fantasma: tocas las negras con el clic. Tras el primer compás el
+  clic se calla y tú sigues. Se ve cuánto te has ido.
+- Lectura: ves el patrón en la rueda, un compás de cuenta y lo tocas dos
+  veces sobre el clic.
+- Eco: suena una vez sin verlo y lo repites dos veces de oído.
+- Dictado: suena el patrón y lo escribes encendiendo sectores en la rueda,
+  como en un secuenciador por pasos. Luego «Comprobar».
+- Oído: suena un patrón y eliges cuál de los cuatro dibujos es.
+- Subdivisión: distingue corcheas, tresillos, semicorcheas y swing.
+- Grooves: reconoce de oído los ritmos de la biblioteca.
+
+AJUSTES
+-------
+- Conteo: «1 e & a» o «Ta ka di mi».
+- Dificultad: Básico (negras y corcheas), Medio (+ semicorcheas),
+  Síncopas (+ puntillos, síncopas y contratiempos), Todo (las 16 figuras).
+- Tempo: 50 a 140 BPM.
+- Precisión exigida: Amplia ±85 ms, Normal ±60 ms, Estricta ±38 ms.
+- Acelerar al acertar: +3 BPM por acierto, −5 por fallo.
+- Reintento inmediato: lo fallado vuelve dos o tres ejercicios después.
+- Sonido / Sonido al tocar (apágalo con Bluetooth: llega con retraso).
+
+PUNTOS
+------
+- Tocar: se supera con el 80 % de golpes a tiempo; los golpes de más
+  restan. Hasta 100 puntos por acierto + hasta 100 por precisión + 10 por
+  cada acierto seguido (máximo 100).
+- Oído, Subdivisión y Grooves: 150 + racha. Dictado: 200 + racha.
+
+MEMORIA Y DOMINIO
+-----------------
+- La app recuerda qué figuras de un pulso te cuestan y las mete más a
+  menudo en los patrones.
+- «Tu dominio» colorea cada lugar del compás: verde clavado, ámbar
+  irregular, rojo a reforzar, gris sin datos. También te dice si tiendes a
+  adelantarte o a retrasarte.
+- Progreso: racha de días y desviación media diaria en milisegundos.
+- Copia de seguridad: código que empieza por ER1: para llevar tu progreso
+  a otro dispositivo.
+
+LABORATORIO Y BIBLIOTECA
+------------------------
+Fuera de la ronda, la rueda es un secuenciador: toca sectores para
+encender o apagar pasos y pulsa «Reproducir en bucle». La biblioteca trae
+15 ritmos: claves de son (3-2 y 2-3), rumba y bossa, tresillo, habanera,
+cinquillo, cuatro por cuatro, backbeat, tangos flamencos, euclídeo de 5,
+compás de 12 (soleá, alegrías, bulería), siguiriya, guajira/petenera y
+campana de 12/8.
+
+NOTAS
+-----
+- En iPhone, el interruptor de silencio apaga el sonido de la app.
+- Todo se guarda en el dispositivo; nada sale de él.
+
+REGISTRO DE CAMBIOS
+-------------------
+Versión 1.0 — 11 de noviembre de 2026
+- Primera versión: rueda del compás con aguja, 7 tipos de ejercicio,
+  medición de golpes en milisegundos, calibración de latencia, memoria de
+  figuras difíciles, mapa «Tu dominio», laboratorio con biblioteca de 15
+  ritmos, progreso por días y copia de seguridad.
